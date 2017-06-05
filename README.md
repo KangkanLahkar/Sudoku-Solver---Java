@@ -1,5 +1,7 @@
 # Sudoku-Solver---Java
-This is a java sudoku solver. One can use this either by entering values in 9*9 grid or passing an array manually
+This is a java sudoku solver. One can use this either by entering values in 9*9 grid or passing an array manually.
+
+One can use the sudoku.zip file and extract it on eclipse for better results
 
 How to use it?
 1. Extract the files in eclipse.
@@ -12,7 +14,7 @@ How to use it?
 
 Also there is other option to manually create a 9*9 array and pass it to the solver class
 Suppose this is your sudoku grid. (Blank spaces are initialised with 0)
-int [][]arr1 =  {{0,0,0,0,0,0,0,0,0},
+                         int [][]arr1 =  {{0,0,0,0,0,0,0,0,0},
 				         {0,0,0,0,0,3,0,8,5},
 				         {0,0,1,0,2,0,0,0,0},
 				         {0,0,0,5,0,7,0,0,0},
