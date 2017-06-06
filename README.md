@@ -11,8 +11,10 @@ How to use it?
 5. In the pop up one can enter values of the grid.
 6. After you finished entering the values you can click on "Solve" option in the pop up and then "OK".
 7. If you need to clear the grid click "Clear all" then "OK"
-https://github.com/KangkanLahkar/Sudoku-Solver---Java/blob/master/Screen%20Shot%202017-06-05%20at%2010.21.05%20PM.png?raw=true
+
 ![alt text](https://github.com/KangkanLahkar/Sudoku-Solver---Java/blob/master/Screen%20Shot%202017-06-05%20at%2010.21.05%20PM.png?raw=true)
+![alt text](https://github.com/KangkanLahkar/Sudoku-Solver---Java/blob/master/Screen%20Shot%202017-06-05%20at%2010.23.39%20PM.png?raw=true)
+![alt text](https://github.com/KangkanLahkar/Sudoku-Solver---Java/blob/master/Screen%20Shot%202017-06-05%20at%2010.23.57%20PM.png?raw=true)
 
 Also there is other option to manually create a 9*9 array and pass it to the solver class
 Suppose this is your sudoku grid. (Blank spaces are initialised with 0)
